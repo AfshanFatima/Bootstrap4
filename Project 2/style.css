@@ -1,0 +1,46 @@
+body{
+    background: url('Design Files/water.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+
+}
+.hero{
+color: gold;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Shrikhand', cursive;
+font-size: 2.5em;
+margin-top:100px;
+padding-top: 50px;
+text-align: center;
+}
+
+.A{
+    text-align: center;
+    padding:40px;
+}
+
+.rowHeight {
+    height:500px;
+}
+.img-thumbnail{
+    height:250px;
+    width: 300px;
+    background-color:green;
+}
+ 
+.rowf{
+    margin-top: 70px;
+    margin-bottom: 0px;
+    -webkit-background-visibility: hidden;
+}
+
+.footer{
+    background-color:whitesmoke;
+    bottom:0;
+}
+
+ p{
+     font-size: 19px;
+     padding:20px;
+     background-color: no currentColor;
+ }
