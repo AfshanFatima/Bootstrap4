@@ -1,0 +1,21 @@
+body{
+background: url(../Design\ Files/pic1.png) no-repeat center center fixed;
+background-size: cover;
+background-color: #464646;
+}
+h1 {
+    color: rgb(58, 42, 3);
+}
+
+#img_logo {
+    max-width: 100px;
+    max-width: 100px;
+    margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+    width:350px;
+}
+#login-modal input[type=text], input[type=password] {
+    margin-top: 10px;
+}
