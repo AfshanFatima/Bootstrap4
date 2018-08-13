@@ -7,11 +7,11 @@ Twitter Bootstrap has become the most widely used framework for quickly building
 
 **In this course we will learn:**
 
-* all about the new features in Bootstrap 4.
-* what's different in Bootstrap 4 vs. Bootstrap 3.
-* how to set up an efficient workflow for Bootstrap projects.
-* how to build 3 separate responsive websites, including a modern startup landing page.
-* how to download & install SASS for Bootstrap websites
+* All about the new features in Bootstrap 4.
+* What's different in Bootstrap 4 vs. Bootstrap 3.
+* How to set up an efficient workflow for Bootstrap projects.
+* How to build 3 separate responsive websites, including a modern startup landing page.
+* How to download & install SASS for Bootstrap websites
 and more!
 
 
@@ -44,7 +44,7 @@ and more!
 These 3 points may look really simple but these are fundamental blocks of getting started as a web developer. Our goal is to make sure that you understand syntax of Boostrap 4. 
 
 
-#### [BASIC BOILERPLATE THAT WE HAVE USED IN ALL THE PROJECTS]()
+#### [BASIC BOILERPLATE THAT WE HAVE USED IN ALL THESE PROJECTS]()
 
 
 ```
