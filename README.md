@@ -92,8 +92,11 @@ These 3 points may look really simple but these are fundamental blocks of gettin
 ### Resources
 
 [Bootstrap](http://getbootstrap.com/)
+
 [Google Fonts](https://fonts.google.com/)
+
 [UI Gradients](https://uigradients.com/#RoseColoredLenses)
+
 [Flat UI Colors](https://flatuicolors.com/)
 
 <!--
