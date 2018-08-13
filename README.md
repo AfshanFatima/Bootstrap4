@@ -1,7 +1,7 @@
 
 #  [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/bootstrap-4/learn/v4/content)
 
-**Welcome to complete Bootstrap 4 training with 3 projects.**
+## Welcome to complete Bootstrap 4 training with 3 projects.
 
 Twitter Bootstrap has become the most widely used framework for quickly building responsive websites, and they're currently launching Bootstrap 4 to the public. This new version of Bootstrap comes with a ton of new features to help you build even better responsive websites.
 
@@ -89,14 +89,11 @@ These 3 points may look really simple but these are fundamental blocks of gettin
   </body>
 </html>
 ```
-#### Resources
+### Resources
 
 [Bootstrap](http://getbootstrap.com/)
-
 [Google Fonts](https://fonts.google.com/)
-
 [UI Gradients](https://uigradients.com/#RoseColoredLenses)
-
 [Flat UI Colors](https://flatuicolors.com/)
 
 <!--
